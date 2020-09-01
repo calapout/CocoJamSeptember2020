@@ -6,5 +6,6 @@ This repo is made to collaborate during the cocojam made with unreal engine 4 fr
 #Team
 - Calapout (Jimmy|programming)
 - Craftwill (William|programming)
+- Okamii (Camille|programming)
 - Hannah (Hannah|Design)
 - Alia600 (Catherine|sound design)
